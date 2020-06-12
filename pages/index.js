@@ -17,7 +17,7 @@ export default function Home() {
         <nav>
           <ul>
             <li>
-              <Link href="/posts/first-post">First post</Link>
+              <Link href="/posts/first-post"><a>First post</a></Link>
             </li>
           </ul>
           
